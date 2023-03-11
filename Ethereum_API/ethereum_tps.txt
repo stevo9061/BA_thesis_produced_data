@@ -1,0 +1,15 @@
+
+Today's date is 15/02/2023 20:07:04
+The average transactions per block are 166.08292546496995
+The blocktime on the Ethereum blockchain is about 12 seconds
+Number of transactions per second: 13.84
+
+Today's date is 01/03/2023 22:53:41
+The average transactions per block are 151.5867640859913
+The blocktime on the Ethereum blockchain is about 12 seconds
+Number of transactions per second: 12.63
+
+Today's date is 11/03/2023 22:11:12
+The average transactions per block are 145.93655036578502
+The blocktime on the Ethereum blockchain is about 12 seconds
+Number of transactions per second: 12.16
