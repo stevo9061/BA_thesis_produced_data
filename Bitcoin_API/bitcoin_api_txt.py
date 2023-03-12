@@ -21,7 +21,7 @@ def get_tx_count(block_hash):
 
 # Open file stream
 # Append new report to the end of the file
-bitcoin_tps_file = open("C:\\Users\\sbitt\PycharmProjects\\pythonProject\\bitcoin_tps.txt", "a")
+bitcoin_tps_file = open("C:\\Users\\sbitt\PycharmProjects\\pythonProject\\Bitcoin_API\\bitcoin_tps.txt", "a")
 
 current_time = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 bitcoin_tps_file.write(f"\nToday's date is {current_time}")
@@ -29,14 +29,14 @@ bitcoin_tps_file.write(f"\nToday's date is {current_time}")
 block_count = int(get_latest_block())
 tx_count = 0
 block_time_sec = 600 # (60 x 10 = 10 minutes) https://thebitcoinmanual.com/articles/btc-block-time/
-blocksToCalc = 10
+blocksToCalc = 100
 
 
 for i in range(block_count, block_count - blocksToCalc, -1):
     block_hash = get_block_hash(i)
     bitcoin_tps_file.write(f"\nBlockcount: {i} Blockhash: {block_hash}")
     tx_count += get_tx_count(block_hash)
-    bitcoin_tps_file.write(f"\nTransaction count = {tx_count}")
+    bitcoin_tps_file.write(f"\nTransaction count = {get_tx_count(block_hash)}")
 
 print(f"\nToday's date is {current_time}")
 print(f"\nBitcoin: In the most recent and last {blocksToCalc} blocks {tx_count} transactions were performed *.* ")

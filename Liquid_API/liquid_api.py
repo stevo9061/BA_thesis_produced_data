@@ -25,7 +25,7 @@ tx_count = 0
 # (60 x 1 = 1 minutes) https://help.blockstream.com/hc/en-us/articles/900001390903-What-is-the-transaction-capacity-of-Liquid-
 # wrong -> (60 x 2 = 2 minutes)https://hackernoon.com/a-beginners-guide-to-the-liquid-network
 block_time_sec = 60
-blocksToCalc = 100
+blocksToCalc = 10
 
 for i in range(block_count, block_count - blocksToCalc, -1):
     block_hash = get_block_hash(i)

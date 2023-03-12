@@ -38,7 +38,7 @@ for i in range(block_count, block_count - blocksToCalc, -1):
     block_hash = get_block_hash(i)
     liquid_tps_file.write(f"\nBlockcount: {i} Blockhash: {block_hash}")
     tx_count += get_tx_count(block_hash)
-    liquid_tps_file.write(f"\nTransaction count = {tx_count}")
+    liquid_tps_file.write(f"\nTransaction count = {get_tx_count(block_hash)}")
 
 current_time = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 print(f"\nToday's date is {current_time}")
