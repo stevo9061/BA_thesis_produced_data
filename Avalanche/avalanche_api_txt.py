@@ -2,14 +2,14 @@ from datetime import datetime
 import requests
 
 def get_latest_block():
-    url = "https://api.snowtrace.io/api?module=proxy&action=eth_blockNumber&apikey=YourApiKeyToken"
+    url = "https://api.snowtrace.io/api?module=proxy&action=eth_blockNumber&apikey=99BRJK9QAN7CVY8Y5VT27AHGHTYXI1JEUX"
     response = requests.get(url)
     responseResult = response.json()["result"]
     return responseResult
 
 
 def get_tx_count(block_hash):
-    url = f"https://api.snowtrace.io/api?module=proxy&action=eth_getBlockTransactionCountByNumber&tag={block_hash}&apikey=YourApiKeyToken"
+    url = f"https://api.snowtrace.io/api?module=proxy&action=eth_getBlockTransactionCountByNumber&tag={block_hash}&apikey=99BRJK9QAN7CVY8Y5VT27AHGHTYXI1JEUX"
     response = requests.get(url)
     return response.json()["result"]
 
@@ -17,7 +17,7 @@ def get_tx_count(block_hash):
 
 # Open file stream
 # Append new report to the end of the file
-avalanche_tps_file = open("C:\\Users\\sbitt\PycharmProjects\\pythonProject\\Avalanche_API\\avalanche_tps.txt", "a")
+avalanche_tps_file = open("C:\\Users\\sbitt\PycharmProjects\\pythonProject\\Avalanche\\avalanche_tps.txt", "a")
 
 current_time = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 avalanche_tps_file.write(f"\nToday's date is {current_time}")
@@ -30,7 +30,7 @@ avalanche_tps_file.write(f"\nRecent block count is: {block_count_int}\n\n")
 
 tx_count_int = 0
 block_time_sec = 2  # https://snowtrace.io/chart/blocktime -> Average Blocktime from 1.1.2022 - 12.03.2023
-blocksToCalc = 1000
+blocksToCalc = 100
 
 
 for i in range(block_count_int, block_count_int - blocksToCalc, -1):

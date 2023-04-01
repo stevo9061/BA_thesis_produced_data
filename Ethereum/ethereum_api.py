@@ -20,7 +20,7 @@ def get_avg_transactions_block():
 
 # Open file stream
 # Append new report to the end of the file
-ethereum_tps_file = open("C:\\Users\\sbitt\PycharmProjects\\pythonProject\\Ethereum_API\\ethereum_tps.txt", "a")
+ethereum_tps_file = open("C:\\Users\\sbitt\PycharmProjects\\pythonProject\\Ethereum\\ethereum_tps.txt", "a")
 current_time = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 ethereum_tps_file.write(f"\nToday's date is {current_time}")
 

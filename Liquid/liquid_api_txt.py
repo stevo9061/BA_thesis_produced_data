@@ -21,7 +21,7 @@ def get_tx_count(block_hash):
 
 # Open file stream
 # Append new report to the end of the file
-liquid_tps_file = open("C:\\Users\\sbitt\PycharmProjects\\pythonProject\\Liquid_API\\liquid_tps.txt", "a")
+liquid_tps_file = open("C:\\Users\\sbitt\PycharmProjects\\pythonProject\\Liquid\\liquid_tps.txt", "a")
 
 current_time = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 liquid_tps_file.write(f"\nToday's date is {current_time}")
