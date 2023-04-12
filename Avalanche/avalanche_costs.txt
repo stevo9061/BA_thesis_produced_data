@@ -1,0 +1,4 @@
+On Average, the transaction cost is 0.007432474567664735 AVAX, and $ 0.1313318256106359 USD
+On 08/04/2023 the AVAX price is $ 17.67 USD
+The most expensive transaction has cost 0.029434007607802876 AVAX, and $ 0.5200989144298769 USD
+The least expensive transaction has cost 0.005120882019462095 AVAX, and $ 0.09048598528389523 USD
