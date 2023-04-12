@@ -1,244 +1,4 @@
 
-Today's date is 12/03/2023 01:44:16
-Recent block count is: 27321639
-
-
-Blockcount: 27321639 Blockhash: 0x1a0e527
-Transaction count = 89
-Blockcount: 27321638 Blockhash: 0x1a0e526
-Transaction count = 3
-Blockcount: 27321637 Blockhash: 0x1a0e525
-Transaction count = 8
-Blockcount: 27321636 Blockhash: 0x1a0e524
-Transaction count = 12
-Blockcount: 27321635 Blockhash: 0x1a0e523
-Transaction count = 10
-Blockcount: 27321634 Blockhash: 0x1a0e522
-Transaction count = 3
-Blockcount: 27321633 Blockhash: 0x1a0e521
-Transaction count = 12
-Blockcount: 27321632 Blockhash: 0x1a0e520
-Transaction count = 18
-Blockcount: 27321631 Blockhash: 0x1a0e51f
-Transaction count = 9
-Blockcount: 27321630 Blockhash: 0x1a0e51e
-Transaction count = 10
-Avalanche: In the most recent and last 10 blocks 174 transactions were performed *.* 
-The average transactions per block are 17.4
-The blocktime on the Avalanche blockchain is 2 seconds
-Number of transactions per second: 8.70
-
-
-Today's date is 12/03/2023 01:45:46
-Recent block count is: 27321683
-
-
-Blockcount: 27321683 Blockhash: 0x1a0e553
-Transaction count = 1
-Blockcount: 27321682 Blockhash: 0x1a0e552
-Transaction count = 5
-Blockcount: 27321681 Blockhash: 0x1a0e551
-Transaction count = 5
-Blockcount: 27321680 Blockhash: 0x1a0e550
-Transaction count = 2
-Blockcount: 27321679 Blockhash: 0x1a0e54f
-Transaction count = 8
-Blockcount: 27321678 Blockhash: 0x1a0e54e
-Transaction count = 3
-Blockcount: 27321677 Blockhash: 0x1a0e54d
-Transaction count = 2
-Blockcount: 27321676 Blockhash: 0x1a0e54c
-Transaction count = 2
-Blockcount: 27321675 Blockhash: 0x1a0e54b
-Transaction count = 1
-Blockcount: 27321674 Blockhash: 0x1a0e54a
-Transaction count = 4
-Blockcount: 27321673 Blockhash: 0x1a0e549
-Transaction count = 1
-Blockcount: 27321672 Blockhash: 0x1a0e548
-Transaction count = 3
-Blockcount: 27321671 Blockhash: 0x1a0e547
-Transaction count = 6
-Blockcount: 27321670 Blockhash: 0x1a0e546
-Transaction count = 5
-Blockcount: 27321669 Blockhash: 0x1a0e545
-Transaction count = 11
-Blockcount: 27321668 Blockhash: 0x1a0e544
-Transaction count = 20
-Blockcount: 27321667 Blockhash: 0x1a0e543
-Transaction count = 4
-Blockcount: 27321666 Blockhash: 0x1a0e542
-Transaction count = 5
-Blockcount: 27321665 Blockhash: 0x1a0e541
-Transaction count = 3
-Blockcount: 27321664 Blockhash: 0x1a0e540
-Transaction count = 5
-Blockcount: 27321663 Blockhash: 0x1a0e53f
-Transaction count = 8
-Blockcount: 27321662 Blockhash: 0x1a0e53e
-Transaction count = 6
-Blockcount: 27321661 Blockhash: 0x1a0e53d
-Transaction count = 11
-Blockcount: 27321660 Blockhash: 0x1a0e53c
-Transaction count = 25
-Blockcount: 27321659 Blockhash: 0x1a0e53b
-Transaction count = 12
-Blockcount: 27321658 Blockhash: 0x1a0e53a
-Transaction count = 4
-Blockcount: 27321657 Blockhash: 0x1a0e539
-Transaction count = 6
-Blockcount: 27321656 Blockhash: 0x1a0e538
-Transaction count = 7
-Blockcount: 27321655 Blockhash: 0x1a0e537
-Transaction count = 6
-Blockcount: 27321654 Blockhash: 0x1a0e536
-Transaction count = 12
-Blockcount: 27321653 Blockhash: 0x1a0e535
-Transaction count = 4
-Blockcount: 27321652 Blockhash: 0x1a0e534
-Transaction count = 12
-Blockcount: 27321651 Blockhash: 0x1a0e533
-Transaction count = 5
-Blockcount: 27321650 Blockhash: 0x1a0e532
-Transaction count = 2
-Blockcount: 27321649 Blockhash: 0x1a0e531
-Transaction count = 14
-Blockcount: 27321648 Blockhash: 0x1a0e530
-Transaction count = 6
-Blockcount: 27321647 Blockhash: 0x1a0e52f
-Transaction count = 6
-Blockcount: 27321646 Blockhash: 0x1a0e52e
-Transaction count = 4
-Blockcount: 27321645 Blockhash: 0x1a0e52d
-Transaction count = 5
-Blockcount: 27321644 Blockhash: 0x1a0e52c
-Transaction count = 5
-Blockcount: 27321643 Blockhash: 0x1a0e52b
-Transaction count = 6
-Blockcount: 27321642 Blockhash: 0x1a0e52a
-Transaction count = 6
-Blockcount: 27321641 Blockhash: 0x1a0e529
-Transaction count = 2
-Blockcount: 27321640 Blockhash: 0x1a0e528
-Transaction count = 36
-Blockcount: 27321639 Blockhash: 0x1a0e527
-Transaction count = 89
-Blockcount: 27321638 Blockhash: 0x1a0e526
-Transaction count = 3
-Blockcount: 27321637 Blockhash: 0x1a0e525
-Transaction count = 8
-Blockcount: 27321636 Blockhash: 0x1a0e524
-Transaction count = 12
-Blockcount: 27321635 Blockhash: 0x1a0e523
-Transaction count = 10
-Blockcount: 27321634 Blockhash: 0x1a0e522
-Transaction count = 3
-Blockcount: 27321633 Blockhash: 0x1a0e521
-Transaction count = 12
-Blockcount: 27321632 Blockhash: 0x1a0e520
-Transaction count = 18
-Blockcount: 27321631 Blockhash: 0x1a0e51f
-Transaction count = 9
-Blockcount: 27321630 Blockhash: 0x1a0e51e
-Transaction count = 10
-Blockcount: 27321629 Blockhash: 0x1a0e51d
-Transaction count = 3
-Blockcount: 27321628 Blockhash: 0x1a0e51c
-Transaction count = 12
-Blockcount: 27321627 Blockhash: 0x1a0e51b
-Transaction count = 5
-Blockcount: 27321626 Blockhash: 0x1a0e51a
-Transaction count = 12
-Blockcount: 27321625 Blockhash: 0x1a0e519
-Transaction count = 7
-Blockcount: 27321624 Blockhash: 0x1a0e518
-Transaction count = 4
-Blockcount: 27321623 Blockhash: 0x1a0e517
-Transaction count = 8
-Blockcount: 27321622 Blockhash: 0x1a0e516
-Transaction count = 5
-Blockcount: 27321621 Blockhash: 0x1a0e515
-Transaction count = 1
-Blockcount: 27321620 Blockhash: 0x1a0e514
-Transaction count = 5
-Blockcount: 27321619 Blockhash: 0x1a0e513
-Transaction count = 4
-Blockcount: 27321618 Blockhash: 0x1a0e512
-Transaction count = 7
-Blockcount: 27321617 Blockhash: 0x1a0e511
-Transaction count = 3
-Blockcount: 27321616 Blockhash: 0x1a0e510
-Transaction count = 3
-Blockcount: 27321615 Blockhash: 0x1a0e50f
-Transaction count = 4
-Blockcount: 27321614 Blockhash: 0x1a0e50e
-Transaction count = 28
-Blockcount: 27321613 Blockhash: 0x1a0e50d
-Transaction count = 11
-Blockcount: 27321612 Blockhash: 0x1a0e50c
-Transaction count = 6
-Blockcount: 27321611 Blockhash: 0x1a0e50b
-Transaction count = 6
-Blockcount: 27321610 Blockhash: 0x1a0e50a
-Transaction count = 5
-Blockcount: 27321609 Blockhash: 0x1a0e509
-Transaction count = 23
-Blockcount: 27321608 Blockhash: 0x1a0e508
-Transaction count = 12
-Blockcount: 27321607 Blockhash: 0x1a0e507
-Transaction count = 11
-Blockcount: 27321606 Blockhash: 0x1a0e506
-Transaction count = 4
-Blockcount: 27321605 Blockhash: 0x1a0e505
-Transaction count = 6
-Blockcount: 27321604 Blockhash: 0x1a0e504
-Transaction count = 5
-Blockcount: 27321603 Blockhash: 0x1a0e503
-Transaction count = 5
-Blockcount: 27321602 Blockhash: 0x1a0e502
-Transaction count = 10
-Blockcount: 27321601 Blockhash: 0x1a0e501
-Transaction count = 3
-Blockcount: 27321600 Blockhash: 0x1a0e500
-Transaction count = 7
-Blockcount: 27321599 Blockhash: 0x1a0e4ff
-Transaction count = 2
-Blockcount: 27321598 Blockhash: 0x1a0e4fe
-Transaction count = 6
-Blockcount: 27321597 Blockhash: 0x1a0e4fd
-Transaction count = 5
-Blockcount: 27321596 Blockhash: 0x1a0e4fc
-Transaction count = 4
-Blockcount: 27321595 Blockhash: 0x1a0e4fb
-Transaction count = 3
-Blockcount: 27321594 Blockhash: 0x1a0e4fa
-Transaction count = 16
-Blockcount: 27321593 Blockhash: 0x1a0e4f9
-Transaction count = 1
-Blockcount: 27321592 Blockhash: 0x1a0e4f8
-Transaction count = 4
-Blockcount: 27321591 Blockhash: 0x1a0e4f7
-Transaction count = 7
-Blockcount: 27321590 Blockhash: 0x1a0e4f6
-Transaction count = 1
-Blockcount: 27321589 Blockhash: 0x1a0e4f5
-Transaction count = 5
-Blockcount: 27321588 Blockhash: 0x1a0e4f4
-Transaction count = 2
-Blockcount: 27321587 Blockhash: 0x1a0e4f3
-Transaction count = 9
-Blockcount: 27321586 Blockhash: 0x1a0e4f2
-Transaction count = 1
-Blockcount: 27321585 Blockhash: 0x1a0e4f1
-Transaction count = 10
-Blockcount: 27321584 Blockhash: 0x1a0e4f0
-Transaction count = 6
-Avalanche: In the most recent and last 100 blocks 787 transactions were performed *.* 
-The average transactions per block are 7.87
-The blocktime on the Avalanche blockchain is 2 seconds
-Number of transactions per second: 3.94
-
-
 Today's date is 12/03/2023 01:46:24
 Recent block count is: 27321703
 
@@ -1243,7 +1003,7 @@ Blockcount: 27321205 Blockhash: 0x1a0e375
 Transaction count = 7
 Blockcount: 27321204 Blockhash: 0x1a0e374
 Transaction count = 3
-Avalanche: In the most recent and last 500 blocks 2890 transactions were performed *.* 
+Avalanche: In the most recent and last 500 blocks 2890 transactions were performed *.*
 The average transactions per block are 5.78
 The blocktime on the Avalanche blockchain is 2 seconds
 Number of transactions per second: 2.89
@@ -3253,7 +3013,7 @@ Blockcount: 27320771 Blockhash: 0x1a0e1c3
 Transaction count = 5
 Blockcount: 27320770 Blockhash: 0x1a0e1c2
 Transaction count = 5
-Avalanche: In the most recent and last 1000 blocks 4893 transactions were performed *.* 
+Avalanche: In the most recent and last 1000 blocks 4893 transactions were performed *.*
 The average transactions per block are 4.893
 The blocktime on the Avalanche blockchain is 2 seconds
 Number of transactions per second: 2.45
@@ -3283,7 +3043,7 @@ Blockcount: 27349720 Blockhash: 0x1a152d8
 Transaction count = 1
 Blockcount: 27349719 Blockhash: 0x1a152d7
 Transaction count = 1
-Avalanche: In the most recent and last 10 blocks 16 transactions were performed *.* 
+Avalanche: In the most recent and last 10 blocks 16 transactions were performed *.*
 The average transactions per block are 1.6
 The blocktime on the Avalanche blockchain is 2 seconds
 Number of transactions per second: 0.80
@@ -23293,7 +23053,7 @@ Blockcount: 27339737 Blockhash: 0x1a12bd9
 Transaction count = 3
 Blockcount: 27339736 Blockhash: 0x1a12bd8
 Transaction count = 2
-Avalanche: In the most recent and last 10000 blocks 28104 transactions were performed *.* 
+Avalanche: In the most recent and last 10000 blocks 28104 transactions were performed *.*
 The average transactions per block are 2.8104
 The blocktime on the Avalanche blockchain is 2 seconds
 Number of transactions per second: 1.41
