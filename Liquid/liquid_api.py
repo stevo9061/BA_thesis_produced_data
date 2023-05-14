@@ -41,7 +41,7 @@ avgTransactionsPerBlock = tx_count / blocksToCalc
 print(f"The average transactions per block are {avgTransactionsPerBlock}")
 
 # Fulfill second requirement
-print(f"The blocktime on the Liquid Network L2 Off-Chain solution is about {block_time_sec} minutes.")
+print(f"The blocktime of the Liquid Network Sidechain protocol is about {block_time_sec} seconds.")
 
 bitcoin_tps = avgTransactionsPerBlock / block_time_sec
 

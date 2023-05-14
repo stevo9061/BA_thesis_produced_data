@@ -24,7 +24,7 @@ Blockcount: 2259406 Blockhash: 296bdb3bdfae217e7735600f28e06ff7f7a43833c9a57d7a7
 Transaction count = 1
 Liquid Network: In the most recent and last 10 blocks 12 transactions were performed *.* 
 The average transactions per block are 1.2
-The blocktime on the Liquid Network L2 Off-Chain solution is about 60 minutes.
+The blocktime of the Liquid Network L2 Sidechain protocol is about 60 seconds.
 Number of transactions per second: 0.02
 
 
@@ -231,7 +231,7 @@ Blockcount: 2259317 Blockhash: 2fcf900a3c5b490ae1072b0e35d76f12f69ff11898ed9e58c
 Transaction count = 1
 Liquid Network: In the most recent and last 100 blocks 106 transactions were performed *.* 
 The average transactions per block are 1.06
-The blocktime on the Liquid Network L2 Off-Chain solution is about 60 minutes.
+The blocktime of the Liquid Network L2 Sidechain protocol is about 60 seconds.
 Number of transactions per second: 0.02
 
 
@@ -438,6 +438,6 @@ Blockcount: 2289434 Blockhash: 9208c06979ce7051c9273e6c5c604f73a88556f82e6495715
 Transaction count = 1
 Liquid Network: In the most recent and last 100 blocks 104 transactions were performed *.* 
 The average transactions per block are 1.04
-The blocktime on the Liquid Network L2 Off-Chain solution is about 60 minutes.
+The blocktime of the Liquid Network L2 Sidechain protocol is about 60 seconds.
 Number of transactions per second: 0.02
 
