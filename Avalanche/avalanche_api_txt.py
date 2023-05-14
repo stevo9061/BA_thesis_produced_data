@@ -33,6 +33,7 @@ block_time_sec = 2  # https://snowtrace.io/chart/blocktime -> Average Blocktime 
 blocksToCalc = 100
 
 
+
 for i in range(block_count_int, block_count_int - blocksToCalc, -1):
     current_block_hash = hex(i)
     avalanche_tps_file.write(f"\nBlockcount: {i} Blockhash: {current_block_hash}")

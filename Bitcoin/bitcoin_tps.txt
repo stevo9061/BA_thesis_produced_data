@@ -439,3 +439,4 @@ The average transactions per block are 2125.86
 The blocktime on the Bitcoin blockchain is about 10 minutes
 Number of transactions per second: 3.54
 
+

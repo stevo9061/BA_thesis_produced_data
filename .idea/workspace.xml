@@ -6,6 +6,23 @@
   <component name="ChangeListManager">
     <list default="true" id="5f6cd02f-8321-4551-9f97-8587c21902b1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Avalanche/avalanche_api_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Avalanche/avalanche_api_txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Avalanche/avalanche_costs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Avalanche/avalanche_costs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Avalanche/avalanche_tps.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Avalanche/avalanche_tps.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Avalanche/avax_getAverageTransactionCosts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Avalanche/avax_getAverageTransactionCosts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Avalanche/average_transactions.json" beforeDir="false" afterPath="$PROJECT_DIR$/Avalanche/average_transactions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bitcoin/bitcoin_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bitcoin/bitcoin_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bitcoin/bitcoin_api_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bitcoin/bitcoin_api_txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bitcoin/bitcoin_tps.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bitcoin/bitcoin_tps.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ethereum/ethereum_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ethereum/ethereum_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ethereum/ethereum_tps.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ethereum/ethereum_tps.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Liquid/liquid_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/Liquid/liquid_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Liquid/liquid_api_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Liquid/liquid_api_txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Liquid/liquid_tps.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Liquid/liquid_tps.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liquid_testnet_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_request_liquid_api.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -322,7 +339,7 @@
       <workItem from="1683925817216" duration="8467000" />
       <workItem from="1684067816901" duration="3000" />
       <workItem from="1684067835265" duration="106000" />
-      <workItem from="1684067957065" duration="640000" />
+      <workItem from="1684067957065" duration="1390000" />
     </task>
     <servers />
   </component>
@@ -343,26 +360,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/old_main.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/old_main.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/old_main.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/old_request_liquid_api.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Avalanche/avalanche_api_txt.py</url>
           <line>19</line>

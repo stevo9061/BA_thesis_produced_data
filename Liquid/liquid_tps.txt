@@ -441,3 +441,4 @@ The average transactions per block are 1.04
 The blocktime of the Liquid Network L2 Sidechain protocol is about 60 seconds.
 Number of transactions per second: 0.02
 
+

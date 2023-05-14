@@ -23296,3 +23296,4 @@ The average transactions per block are 5.94
 The blocktime on the Avalanche blockchain is 2 seconds
 Number of transactions per second: 2.97
 
+
